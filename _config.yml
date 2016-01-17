@@ -1,7 +1,7 @@
 name: Jacky Test
 favicon: null
-layout_spectrum: 0.6022370967548341
-typography_spectrum: 0.835805966053158
+layout_spectrum: 0.22713
+typography_spectrum: 0.55107
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
   brandStrength: 0.5
-  lightness: 0.375
-  saturation: 0.375
-  rhythmicContrast: 0.9024500011000782
+  lightness: 0.6875
+  saturation: 0.875
+  rhythmicContrast: 1
 purpose: []
